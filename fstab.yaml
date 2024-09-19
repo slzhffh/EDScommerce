@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1L9Bo42JltqyBT9TMRMGjxauWX0VXKsAd
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/jbalajadia_adobe_com/Documents/EDScommerce?csf=1&web=1&e=G1CIuH
 
 folders:
   /products/: /products/default
